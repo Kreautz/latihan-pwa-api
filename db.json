@@ -1,0 +1,122 @@
+{
+  "mahasiswa": [{
+  "id": 1,
+  "name": "Melisande Brisco",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Dewey Matzkaitis",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "name": "Allan Rouf",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Shadow Matteacci",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Penelopa Trow",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Rollin Spriddle",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Gil Charrington",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Wald Davson",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Hope Frantsev",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Valaree Swedeland",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Jean Martensen",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Iver Clemonts",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Cesaro Biagini",
+  "gender": "Male"
+}, {
+  "id": 14,
+  "name": "Dorella Winterbottom",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Enriqueta Frankes",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Caty Dahl",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Urbain Canada",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Roy Stickins",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Hymie Rait",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Michell Bow",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Idalia Kendal",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Claybourne Laraway",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Stevena Killock",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Gradey Baalham",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Noll Mutch",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "name": "Emmalyn Sumner",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "name": "Alfreda Mazdon",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Ainsley Brumpton",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Langsdon Hugo",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Lorinda Bringloe",
+  "gender": "Female"
+}]}
